@@ -1,3 +1,14 @@
 {
-  "products": []
+  "products": [
+    {
+      "name": "Caneta azul",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "guitarra fender",
+      "price": 5000,
+      "id": 2
+    }
+  ]
 }
