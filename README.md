@@ -1,18 +1,17 @@
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
-Site do curso www.cod3r.com.br
+#Projeto realizando durante o curso da cod3r
 
-# /Frontend
+###Site do curso www.cod3r.com.br
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+#Para rodar a aplicação
 
-## Development server
+## /Frontend
 
 Run `npm start` , para visualizar acesse `http://localhost:4200/`. 
 
-# /Backend
+## /Backend
 
 Run `npm start` .
 
 
-Algumas telas da aplicação:
+###Algumas telas da aplicação:
 ![imgem da aplicação](https://github.com/leandrorodca/angular-crud/blob/master/readme.png)
